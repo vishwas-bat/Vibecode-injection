@@ -1,4 +1,4 @@
-# Vibecode-injection
+# Vibecode
 
 This repo is a boilerplate for a tiny Python project.
 
